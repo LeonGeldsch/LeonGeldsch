@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonGeldsch
 - 👀 I’m interested in: WebDev, WebDesign, DevOps, ...
-- 🌱 I’m currently learning: Gamification, PWA, DevOps
+- 🌱 I’m currently learning: Gamification, PWA, DevOps, Next.js
 - 💞️ I’m looking to collaborate on: any kind of interesting project!
 - 📫 How to reach me: Email, LinkedIn, Xing, ...
 
